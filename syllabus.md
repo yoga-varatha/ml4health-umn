@@ -1,3 +1,8 @@
+---
+title: Syllabus
+layout: template
+filename: syllabus.md
+--- 
 ## Syllabus
 
 1. Basics of probability and linear algebra
