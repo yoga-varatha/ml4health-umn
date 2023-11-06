@@ -1,6 +1,5 @@
 ---
 title: Syllabus
-layout: template
 filename: syllabus.md
 --- 
 ## Syllabus
