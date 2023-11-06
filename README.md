@@ -19,7 +19,7 @@ Four programming assignments on real-world healthcare ML applications
 Final project (student proposed)  
 - 40% of the grade
 
-<ins>CSCI 8980</ins>
+<ins>CSCI 8980</ins>  
 Four programming assignments on real-world healthcare ML applications  
 - Each will count to 10% of the grade
 
