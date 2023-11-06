@@ -1,6 +1,5 @@
 ---
 title: Machine Learning for Health
-layout: template
 filename: index.md
 --- 
 
