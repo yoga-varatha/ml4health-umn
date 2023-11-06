@@ -1,3 +1,8 @@
+---
+title: CSCI 5980/8980: Machine Learning for Health: Concepts and Applications
+layout: template
+filename: README.md
+--- 
 ## CSCI 5980/8980: Machine Learning for Health: Concepts and Applications
 
 Instructor: Yoga Varatharajah (email: yvaratha@umn.edu)
