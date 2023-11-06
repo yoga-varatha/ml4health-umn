@@ -12,19 +12,19 @@ Textbook: None
 Prerequisites: CSCI 5521 or equivalent
 
 # Class work:
-<u>CSCI 5980</u>
-Four programming assignments on real-world healthcare ML applications
-Each will count to 15% of the grade
-Final project (student proposed)
-	40% of the grade
+<u>CSCI 5980</u>  
+Four programming assignments on real-world healthcare ML applications\
+- Each will count to 15% of the grade
+Final project (student proposed)\
+- 40% of the grade
 
 <u>CSCI 8980</u>
-Four programming assignments on real-world healthcare ML applications
-Each will count to 10% of the grade
-Final project (student proposed)
-	40% of the grade
-Paper presentation 
-	20% of the grade
+Four programming assignments on real-world healthcare ML applications\
+- Each will count to 10% of the grade
+Final project (student proposed)\
+- 40% of the grade
+Paper presentation\
+- 20% of the grade
 
 
 # Intended audience: 
