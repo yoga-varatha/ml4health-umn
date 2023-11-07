@@ -1,5 +1,5 @@
 theme: minima
-title: Machine Learning for Health
+title: CSCI 5980/8980 - Machine Learning for Health
 description: Course Website
 include: [_pages]
 header_pages:
