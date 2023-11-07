@@ -1,5 +1,4 @@
 ---
-title: Machine Learning for Health
 filename: index.md
 permalink: /
 --- 
