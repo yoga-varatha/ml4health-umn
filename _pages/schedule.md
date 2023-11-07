@@ -22,39 +22,10 @@ permalink: /schedule/
 | 7 | 2/26 | Hidden Markov Models | 2/28 | Causal discovery and inference (Guest lecture?) |  
 | 8 | 3/4 | Spring Break | 3/6 | Spring Break |  
 | 9 | 3/11 | Deep learning for Healthcare: Intro | 3/13 | ConvNets (Project proposals) |  
-10
-3/18
-Real-world CNN: (Guest lecture - Google Health)
-10/26
-Autoencoders (MP3 - Medical Imaging)
-11
-3/25
-Recurrent networks
-3/27
-GRU, LSTM, Attention
-12
-4/1
-Self-supervised learning
-4/3
-Generative models (MP4 –Clinical Text)
-13
-4/8
-LLMs 
-4/10
-Foundation models for healthcare
-14
-4/15
-Federated learning (Guest lecture?)
-4/17
-Explainable AI
-15
-4/22
-Robustness, fairness, safety 
-4/24
-AI Ethics for Healthcare
-16
-4/29
-Project presentations
-EOS
-Reports due
-
+| 10 | 3/18 | Real-world CNN: (Guest lecture - Google Health) | 10/26 | Autoencoders (MP3 - Medical Imaging) |  
+| 11 | 3/25 | Recurrent networks | 3/27 | GRU, LSTM, Attention |  
+| 12 | 4/1 | Self-supervised learning | 4/3 | Generative models (MP4 –Clinical Text) |  
+| 13 | 4/8 | LLMs | 4/10 | Foundation models for healthcare |  
+| 14 | 4/15 | Federated learning (Guest lecture?) | 4/17 | Explainable AI |  
+| 15 | 4/22 | Robustness, fairness, safety | 4/24 | AI Ethics for Healthcare |  
+| 16 | 4/29 | Project presentations |  EOS | Reports due |  
