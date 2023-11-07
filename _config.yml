@@ -1,4 +1,4 @@
-theme: minima
+theme: cayman
 title: CSCI 5980/8980 - Machine Learning for Health
 description: Course Website
 include: [_pages]
