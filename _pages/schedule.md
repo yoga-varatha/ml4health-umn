@@ -1,13 +1,12 @@
 ---
+title: Schedule
 filename: schedule.md
 permalink: /schedule/
 --- 
 
-## Schedule
-
-- [About](/ml4health-umn/)
-- [Syllabus](/ml4health-umn/syllabus/)
-- [Schedule](/ml4health-umn/schedule/)
+[//]: - [About](/ml4health-umn/)
+[//]: - [Syllabus](/ml4health-umn/syllabus/)
+[//]: - [Schedule](/ml4health-umn/schedule/)
 
 
 | Week | Date | Lecture | Date | Lecture |  
