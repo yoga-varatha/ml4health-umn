@@ -1,5 +1,4 @@
 ---
-title: Syllabus
 filename: syllabus.md
 permalink: /syllabus/
 --- 
