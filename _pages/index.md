@@ -1,6 +1,7 @@
 ---
 title: Machine Learning for Health
 filename: index.md
+permalink: /
 --- 
 
 ## CSCI 5980/8980: Machine Learning for Health: Concepts and Applications
