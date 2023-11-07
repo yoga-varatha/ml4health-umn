@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Machine Learning for Health
 description: Course Website
-
+include: [_pages]
