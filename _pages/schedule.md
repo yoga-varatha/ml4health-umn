@@ -6,10 +6,15 @@ permalink: /schedule/
 
 ## Schedule
 
-Week | Date | Lecture | Date | Lecture
-1 | 1/15 | Holiday | 1/17 | Intro to Class
-2 | 1/22 | Probability, Linear Algebra  | 1/24 | ML Basics (HW0)
-3 | 1/29 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. | 1/31 | Intro to pandas, sklearn, pytorch (Lab 0)
+- [About](/)
+- [Syllabus](/syllabus/)
+- [Schedule](/schedule/)
+
+Week | Date | Lecture | Date | Lecture |
+-----|------|---------|------|-------- |
+1 | 1/15 | Holiday | 1/17 | Intro to Class |
+2 | 1/22 | Probability, Linear Algebra  | 1/24 | ML Basics (HW0) |
+3 | 1/29 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. | 1/31 | Intro to pandas, sklearn, pytorch (Lab 0) |
 4
 2/5
 Classification Methods in Healthcare: Diagnosis, prognosis, stratification, segmentation
