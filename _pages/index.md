@@ -1,5 +1,6 @@
 ---
 title: null
+name: ""
 filename: index.md
 permalink: /
 --- 
