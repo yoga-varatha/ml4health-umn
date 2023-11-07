@@ -1,6 +1,5 @@
 ---
-title: null
-name: ""
+title: About
 filename: index.md
 permalink: /
 --- 
@@ -14,7 +13,9 @@ permalink: /
 ## Instructor: Prof. Yoga Varatharajah  
 - Email: yvaratha(at)umn(dot)edu
 - Office: 4-203 Keller Hall
-- Web: [Personal](https://sites.google.com/view/yoga-personal/home) [Lab](https://sites.google.com/view/yoga-personal/lab)
+- Web:
+  * [Personal](https://sites.google.com/view/yoga-personal/home)
+  * [Lab](https://sites.google.com/view/yoga-personal/lab)
  
 
 ## Class time and venue: 
