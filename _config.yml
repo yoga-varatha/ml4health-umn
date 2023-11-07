@@ -3,6 +3,6 @@ title: Machine Learning for Health
 description: Course Website
 include: [_pages]
 header_pages:
-  - index.md
-  - syllabus.md
-  - schedule.md
+  - _pages/index.md
+  - _pages/syllabus.md
+  - _pages/schedule.md
