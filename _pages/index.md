@@ -6,6 +6,10 @@ permalink: /
 
 ## CSCI 5980/8980: Machine Learning for Health: Concepts and Applications
 
+- [About](/)
+- [Syllabus](/syllabus/)
+- [Schedule](/schedule/)
+
 Instructor: Yoga Varatharajah (email: yvaratha@umn.edu)
 
 Class time and venue: MW 9.45AM – 11.00AM Classroom TBD
