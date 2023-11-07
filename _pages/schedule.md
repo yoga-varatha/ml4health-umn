@@ -1,3 +1,11 @@
+---
+title: Schedule
+filename: schedule.md
+permalink: /schedule/
+--- 
+
+## Schedule
+
 Week | Date | Lecture | Date | Lecture
 1 | 1/15 | Holiday | 1/17 | Intro to Class
 2 | 1/22 | Probability, Linear Algebra  | 1/24 | ML Basics (HW0)
