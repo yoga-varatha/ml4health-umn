@@ -1,13 +1,14 @@
 ---
+title: About
 filename: index.md
 permalink: /
 --- 
 
 ## CSCI 5980/8980: Machine Learning for Health: Concepts and Applications
 
-- [About](/ml4health-umn/)
-- [Syllabus](/ml4health-umn/syllabus/)
-- [Schedule](/ml4health-umn/schedule/)
+[//]: - [About](/ml4health-umn/)
+[//]: - [Syllabus](/ml4health-umn/syllabus/)
+[//]: - [Schedule](/ml4health-umn/schedule/)
 
 Instructor: Yoga Varatharajah (email: yvaratha@umn.edu)
 
