@@ -5,6 +5,10 @@ permalink: /syllabus/
 --- 
 ## Syllabus
 
+- [About](/)
+- [Syllabus](/syllabus/)
+- [Schedule](/schedule/)
+
 1. Basics of probability and linear algebra
 2. ML Basics, evaluation of ML models
 3. What is different in healthcare? Health data modalities, imbalance, rare events, stakeholders, etc.
