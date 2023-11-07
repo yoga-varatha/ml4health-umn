@@ -1,5 +1,4 @@
 ---
-title: Schedule
 filename: schedule.md
 permalink: /schedule/
 --- 
