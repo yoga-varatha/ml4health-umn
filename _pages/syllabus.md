@@ -1,12 +1,12 @@
 ---
+title: Syllabus
 filename: syllabus.md
 permalink: /syllabus/
 --- 
-## Syllabus
 
-- [About](/ml4health-umn/)
-- [Syllabus](/ml4health-umn/syllabus/)
-- [Schedule](/ml4health-umn/schedule/)
+[//]: - [About](/ml4health-umn/)
+[//]: - [Syllabus](/ml4health-umn/syllabus/)
+[//]: - [Schedule](/ml4health-umn/schedule/)
 
 1. Basics of probability and linear algebra
 2. ML Basics, evaluation of ML models
