@@ -26,9 +26,6 @@ Prerequisites: CSCI 5521 or equivalent
 - Office: 4-203 Keller Hall
 - Web: [https://cse.umn.edu/cs/yogatheesan-varatharajah](https://cse.umn.edu/cs/yogatheesan-varatharajah)  
 
-[//]:  * [Personal](https://sites.google.com/view/yoga-personal/home)
-[//]:  * [Lab](https://sites.google.com/view/yoga-personal/lab)
-
 ## Class work:
 <ins>CSCI 5980</ins>  
 Four programming assignments on real-world healthcare ML applications  
