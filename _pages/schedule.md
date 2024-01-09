@@ -24,6 +24,6 @@ permalink: /schedule/
 | 11 | 3/25 | Recurrent networks | 3/27 | GRU, LSTM, Attention |  
 | 12 | 4/1 | Self-supervised learning | 4/3 | Generative models (MP4 –Clinical Text) |  
 | 13 | 4/8 | LLMs | 4/10 | Foundation models for healthcare |  
-| 14 | 4/15 | Federated learning (Guest lecture?) | 4/17 | Explainable AI |  
-| 15 | 4/22 | Robustness, fairness, safety | 4/24 | AI Ethics for Healthcare |  
+| 14 | 4/15 | Federated learning | 4/17 | Explainable AI |  
+| 15 | 4/22 | Guest Lecture - AI Ethics for Healthcare (Mayo Clinic) | 4/24 | Robustness, fairness, safety |  
 | 16 | 4/29 | Project presentations |  EOS | Reports due |  
