@@ -23,7 +23,7 @@ permalink: /schedule/
 | 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 10/26 | Autoencoders (MP3 - medical imaging) |  
 | 11 | 3/25 | Recurrent networks | 3/27 | GRU, LSTM, attention |  
 | 12 | 4/1 | Self-supervised learning | 4/3 | Generative models (MP4 – clinical text) |  
-| 13 | 4/8 | LLMs | 4/10 | Foundation models for healthcare |  
+| 13 | 4/8 | Large Language Models (LLMs) for Healthcare | 4/10 | Foundation models for healthcare |  
 | 14 | 4/15 | Federated learning | 4/17 | Explainable AI |  
 | 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | Robustness, fairness, safety |  
 | 16 | 4/29 | Project presentations |  EOS | Reports due |  
