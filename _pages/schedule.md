@@ -13,7 +13,7 @@ permalink: /schedule/
 | -----|------|---------|------|-------- |  
 | 1 | 1/15 | Holiday | 1/17 | Intro to class |  
 | 2 | 1/22 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. | 1/24 | Intro to clinical care and understanding clinical data|  
-| 3 | 1/29 | Probability, Linear Algebra | 1/31 | Intro to numpy, pandas, sklearn (Lab 0) |  
+| 3 | 1/29 | Probability, linear algebra | 1/31 | Intro to numpy, pandas, sklearn (Lab 0) |  
 | 4 | 2/5 | Classification methods in healthcare: diagnosis, prognosis, stratification, segmentation | 2/7 | SVM, random forests, xgboost: interpretation of different model choices (MP1 - omics) |  
 | 5 | 2/12 | Unsupervised methods for healthcare: subtype discovery, pattern discovery | 2/14 | PCA, ICA, Tensor decomposition |  
 | 6 | 2/19 | Clustering methods | 2/21 | Digital Health (guest lecture - Prof. Srivastava) (MP2 – physiological signals) |  
