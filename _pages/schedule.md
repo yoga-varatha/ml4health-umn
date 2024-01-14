@@ -22,7 +22,7 @@ permalink: /schedule/
 | 9 | 3/11 | CNNs for medical imaging and signals | 3/13 | Explanations and attributions (**MP3 - medical imaging**)|  
 | 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 10/26 | Graphs and graph neural networks in healthcare |  
 | 11 | 3/25 | Sequence modeling in healthcare - HMMs | 3/27 | Recurrent networks - GRU, LSTM, Attention – health applications |  
-| 12 | 4/1 | Unsupervised deep learning for healthcare, Self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
+| 12 | 4/1 | Unsupervised deep learning for healthcare, self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
 | 13 | 4/8 | Foundation models for healthcare – image, text | 4/10 | Federated learning, robustness, fairness, safety |  
 | 14 | 4/15 | Learning health systems (Guest Lecture - M Health Fairview)| 4/17 | AI evaluation and deplyment (Guest Lecture - IHI) |  
 | 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
