@@ -24,6 +24,6 @@ permalink: /schedule/
 | 11 | 3/25 | Sequence modeling in healthcare - HMMs | 3/27 | Recurrent networks - GRU, LSTM, Attention – health applications |  
 | 12 | 4/1 | Unsupervised deep learning for healthcare, self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
 | 13 | 4/8 | Foundation models for healthcare – image, text | 4/10 | Federated learning, robustness, fairness, safety |  
-| 14 | 4/15 | Learning health systems (Guest Lecture - M Health Fairview)| 4/17 | AI evaluation and deplyment (Guest Lecture - IHI) |  
+| 14 | 4/15 | Learning health systems (Guest Lecture - M Health Fairview)| 4/17 | AI evaluation and deployment (Guest Lecture - IHI) |  
 | 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
 | 16 | 4/29 | **Project presentations** |  EOS | **Reports due** |  
