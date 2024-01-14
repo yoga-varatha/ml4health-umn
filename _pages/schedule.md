@@ -17,13 +17,13 @@ permalink: /schedule/
 | 4 | 2/5 | Classification methods in healthcare: diagnosis, prognosis, stratification, segmentation | 2/7 | SVM, random forests, xgboost: interpretation of different model choices (**MP1 - omics**) |  
 | 5 | 2/12 | Unsupervised methods for healthcare: subtype discovery, pattern discovery | 2/14 | PCA, ICA, tensor decomposition |  
 | 6 | 2/19 | Clustering methods | 2/21 | Digital health (Guest Lecture - Prof. Srivastava) (**MP2 – physiological signals**) |  
-| 7 | 2/26 | Graphical models for healthcare: Bayesian networks | 2/28 | Hidden Markov models (**Project Proposals**)|  
+| 7 | 2/26 | Deep learning for healthcare: Intro | 2/28 | ConvNets & PyTorch tutorial (**Project Proposals**)|  
 | 8 | 3/4 | Spring Break | 3/6 | Spring Break |  
-| 9 | 3/11 | Deep learning for healthcare: Intro | 3/13 | ConvNets & PyTorch tutorial (**Lab 1**)|  
-| 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 10/26 | Autoencoders (**MP3 - medical imaging**) |  
-| 11 | 3/25 | Recurrent networks | 3/27 | GRU, LSTM, attention |  
-| 12 | 4/1 | Self-supervised learning | 4/3 | Generative models (**MP4 – clinical text**) |  
-| 13 | 4/8 | Large language models (LLMs) for healthcare | 4/10 | Foundation models for healthcare |  
-| 14 | 4/15 | Federated learning | 4/17 | Explainable AI |  
-| 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | Robustness, fairness, safety |  
+| 9 | 3/11 | CNNs for medical imaging and signals | 3/13 | Explanations and attributions (**MP3 - medical imaging**)|  
+| 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 10/26 | Graphs and graph neural networks in healthcare |  
+| 11 | 3/25 | Sequence modeling in healthcare - HMMs | 3/27 | Recurrent networks - GRU, LSTM, Attention – health applications |  
+| 12 | 4/1 | Unsupervised deep learning for healthcare, Self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
+| 13 | 4/8 | Foundation models for healthcare – image, text | 4/10 | Federated learning, robustness, fairness, safety |  
+| 14 | 4/15 | Learning health systems (Guest Lecture - M Health Fairview)| 4/17 | AI evaluation and deplyment (Guest Lecture - IHI) |  
+| 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
 | 16 | 4/29 | **Project presentations** |  EOS | **Reports due** |  
