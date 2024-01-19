@@ -20,7 +20,7 @@ permalink: /schedule/
 | 7 | 2/26 | Deep learning for healthcare: Intro | 2/28 | ConvNets & PyTorch tutorial (**Project Proposals**)|  
 | 8 | 3/4 | Spring Break | 3/6 | Spring Break |  
 | 9 | 3/11 | CNNs for medical imaging and signals | 3/13 | Explanations and attributions (**MP3 - medical imaging**)|  
-| 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 10/26 | Graphs and graph neural networks in healthcare |  
+| 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 3/20 | Graphs and graph neural networks in healthcare |  
 | 11 | 3/25 | Sequence modeling in healthcare - HMMs | 3/27 | Recurrent networks - GRU, LSTM, Attention – health applications |  
 | 12 | 4/1 | Unsupervised deep learning for healthcare, self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
 | 13 | 4/8 | Foundation models for healthcare – image, text | 4/10 | Learning health systems (Guest Lecture - M Health Fairview) |  
