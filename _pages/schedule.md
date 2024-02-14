@@ -12,7 +12,7 @@ permalink: /schedule/
 | Week | Date | Lecture | Date | Lecture |  
 | -----|------|---------|------|-------- |  
 | 1 | 1/15 | Holiday | 1/17 | Intro to class |  
-| 2 | 1/22 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. [scribe](../_files/scribe lecture 1.pdf)| 1/24 | Intro to clinical care and understanding clinical data|  
+| 2 | 1/22 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. [[scribe]](../_files/scribe_lecture_1.pdf)| 1/24 | Intro to clinical care and understanding clinical data|  
 | 3 | 1/29 | Classification methods in healthcare: diagnosis, prognosis, stratification, segmentation | 1/31 | Intro to numpy, pandas, sklearn (**Lab 0**) |  
 | 4 | 2/5 | SVM, random forests, xgboost: interpretation of different model choices | 2/7 | Unsupervised methods for healthcare: subtype discovery, pattern discovery (**MP1 - omics**) |  
 | 5 | 2/12 | PCA, ICA, tensor decomposition | 2/14 | Clustering methods (**Deadline to form project groups**)|  
