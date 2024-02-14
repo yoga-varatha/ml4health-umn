@@ -4,7 +4,9 @@ theme: minima
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: CSCI 5980/8980 - Machine Learning for Health
 description: Course Website
-include: [_pages]
+include:
+  - _pages
+  - _files
 header_pages:
   - _pages/index.md
   - _pages/syllabus.md
