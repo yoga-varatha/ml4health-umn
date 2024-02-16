@@ -16,7 +16,7 @@ permalink: /schedule/
 | 3 | 1/29 | Classification methods in healthcare: diagnosis, prognosis, stratification, segmentation | 1/31 | Intro to numpy, pandas, sklearn (**Lab 0**) |  
 | 4 | 2/5 | SVM, random forests, xgboost: interpretation of different model choices | 2/7 | Unsupervised methods for healthcare: subtype discovery, pattern discovery (**MP1 - omics**) |  
 | 5 | 2/12 | PCA, ICA, tensor decomposition | 2/14 | Clustering methods (**Deadline to form project groups**)|  
-| 6 | 2/19 | Causal Inference | 2/21 | Digital health (Guest Lecture - Prof. Srivastava) (**MP2 – physiological signals**) |  
+| 6 | 2/19 | Causal Inference in Healthcare | 2/21 | Digital health (Guest Lecture - Prof. Srivastava) (**MP2 – physiological signals**) |  
 | 7 | 2/26 | Deep learning for healthcare: Intro | 2/28 | ConvNets & PyTorch tutorial (**Project Proposals**)|  
 | 8 | 3/4 | Spring Break | 3/6 | Spring Break |  
 | 9 | 3/11 | CNNs for medical imaging and signals | 3/13 | Explanations and attributions (**MP3 - medical imaging**)|  
