@@ -22,8 +22,8 @@ permalink: /schedule/
 | 9 | 3/11 | CNNs for medical imaging and signals | 3/13 | Explanations and attributions (**MP3 - medical imaging**)|  
 | 10 | 3/18 | Machine learning for medical imaging: (Guest lecture - Google Health) | 3/20 | Graphs and graph neural networks in healthcare |  
 | 11 | 3/25 | Sequence modeling in healthcare - HMMs to RNNs – health applications | 3/27 | Guest Lecture: ML for Mental Health (**Project mid-term reports**)|  
-| 12 | 4/1 | Unsupervised deep learning for healthcare, self-supervised learning | 4/3 | Generative models for healthcare (**MP4 – clinical text**) |  
-| 13 | 4/8 | Foundation models for healthcare – image, text | 4/10 | Learning health systems (Guest Lecture - M Health Fairview) |  
-| 14 | 4/15 | Federated learning, robustness, fairness, safety | 4/17 | AI evaluation and deployment (Guest Lecture - Institute for Health Informatics) |  
-| 15 | 4/22 | AI ethics for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
+| 12 | 4/1 | Learning health systems (Guest Lecture - M Health Fairview) | 4/3 |  Unsupervised deep learning for healthcare, self-supervised learning (**MP4 – clinical text**) |  
+| 13 | 4/8 | Generative models in healthcare | 4/10 | AI evaluation and deployment (Guest Lecture - Institute for Health Informatics) |  
+| 14 | 4/15 | Clinical foundation modelse – image, text | 4/17 | Federated learning, robustness, fairness, safety |  
+| 15 | 4/22 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
 | 16 | 4/29 | **Project presentations** |  EOS | **Reports due** |  
