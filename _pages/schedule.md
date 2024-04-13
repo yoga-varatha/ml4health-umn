@@ -24,6 +24,6 @@ permalink: /schedule/
 | 11 | 3/25 | Sequence modeling in healthcare - HMMs to RNNs – health applications | 3/27 | Guest Lecture: ML for Mental Health (**Project mid-term reports**)|  
 | 12 | 4/1 | Learning health systems (Guest Lecture - M Health Fairview) | 4/3 |  Unsupervised deep learning for healthcare, self-supervised learning (**MP4 – clinical text**) |  
 | 13 | 4/8 | Generative models in healthcare | 4/10 | AI evaluation and deployment (Guest Lecture - Institute for Health Informatics) |  
-| 14 | 4/15 | Clinical foundation modelse – image, text | 4/17 | Federated learning, robustness, fairness, safety |  
-| 15 | 4/22 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | **Project presentations** |  
+| 14 | 4/15 | Clinical text AI applications | 4/17 | Lab on large language models |  
+| 15 | 4/22 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | TBD |  
 | 16 | 4/29 | **Project presentations** |  EOS | **Reports due** |  
