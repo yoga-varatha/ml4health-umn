@@ -25,5 +25,5 @@ permalink: /schedule/
 | 12 | 4/1 | Learning health systems (Guest Lecture - M Health Fairview) | 4/3 |  Unsupervised deep learning for healthcare, self-supervised learning (**MP4 – clinical text**) |  
 | 13 | 4/8 | Generative models in healthcare | 4/10 | AI evaluation and deployment (Guest Lecture - Institute for Health Informatics) |  
 | 14 | 4/15 | Clinical foundation models | 4/17 | Lab on large language models |  
-| 15 | 4/22 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | TBD |  
+| 15 | 4/22 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 4/24 | Trustworthy Health AI - Robustness and Reliability |  
 | 16 | 4/29 | **Project presentations** |  EOS | **Reports due** |  
