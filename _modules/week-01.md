@@ -1,23 +1,13 @@
 ---
-title: Introduction to Java
+title: Overview & Basics
 ---
 
 Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
+: [Introduction to class](#)
+  : 
+  
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: [Brief history of AI in healthcare](#)
+  : [RR1](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }

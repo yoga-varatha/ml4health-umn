@@ -97,107 +97,51 @@
     
     "relUrl": "/announcements/"
   },"14": {
-    "doc": "Announcements",
-    "title": "Week 1 Announcement",
-    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
-    "url": "/ml4health-umn/announcements/",
-    
-    "relUrl": "/announcements/"
-  },"15": {
-    "doc": "Announcements",
-    "title": "Week 0 Announcement",
-    "content": "Apr 1 &middot; 0 min read Hello world! . ",
-    "url": "/ml4health-umn/announcements/",
-    
-    "relUrl": "/announcements/"
-  },"16": {
     "doc": "Calendar",
     "title": "Calendar",
-    "content": " ",
+    "content": "RR: Required reading AR: Additional reading . ",
     "url": "/ml4health-umn/calendar/",
     
     "relUrl": "/calendar/"
-  },"17": {
+  },"15": {
     "doc": "Calendar",
-    "title": "Introduction to Java",
-    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "/ml4health-umn/calendar/#introduction-to-java",
+    "title": "Overview &amp; Basics",
+    "content": "Sep 28 Introduction to class Sep 29 Brief history of AI in healthcare RR1 ",
+    "url": "/ml4health-umn/calendar/#overview-basics",
     
-    "relUrl": "/calendar/#introduction-to-java"
-  },"18": {
-    "doc": "Calendar",
-    "title": "Basic Data Structures",
-    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/ml4health-umn/calendar/#basic-data-structures",
-    
-    "relUrl": "/calendar/#basic-data-structures"
-  },"19": {
-    "doc": "Schedule",
-    "title": "Weekly Schedule",
-    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "/ml4health-umn/schedule/#weekly-schedule",
-    
-    "relUrl": "/schedule/#weekly-schedule"
-  },"20": {
-    "doc": "Schedule",
-    "title": "Monday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "/ml4health-umn/schedule/",
-    
-    "relUrl": "/schedule/"
-  },"21": {
-    "doc": "Schedule",
-    "title": "Tuesday",
-    "content": "| ",
-    "url": "/ml4health-umn/schedule/",
-    
-    "relUrl": "/schedule/"
-  },"22": {
-    "doc": "Schedule",
-    "title": "Wednesday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "/ml4health-umn/schedule/",
-    
-    "relUrl": "/schedule/"
-  },"23": {
-    "doc": "Schedule",
-    "title": "Thursday",
-    "content": "| ",
-    "url": "/ml4health-umn/schedule/",
-    
-    "relUrl": "/schedule/"
-  },"24": {
-    "doc": "Schedule",
-    "title": "Friday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
-    "url": "/ml4health-umn/schedule/",
-    
-    "relUrl": "/schedule/"
-  },"25": {
-    "doc": "Schedule",
-    "title": "Schedule",
+    "relUrl": "/calendar/#overview-basics"
+  },"16": {
+    "doc": "Final project",
+    "title": "Final project",
     "content": " ",
-    "url": "/ml4health-umn/schedule/",
+    "url": "/ml4health-umn/finalproject/",
     
-    "relUrl": "/schedule/"
-  },"26": {
+    "relUrl": "/finalproject/"
+  },"17": {
+    "doc": "Machine problems",
+    "title": "Machine problems",
+    "content": "Students will work on four machine problems, each introducing a different type of medical data. Using Python, you will implement and evaluate machine learning algorithms discussed in class. | MP1 – Classification of RNAseq gene expression data. | MP2 – Unsupervised analysis of brain electrophysiological signals. | MP3 – Deep learning for medical image classification. | MP4 – Using and fine-tuning a large language model to analyze electronic health records. | . ",
+    "url": "/ml4health-umn/machineproblems/",
+    
+    "relUrl": "/machineproblems/"
+  },"18": {
     "doc": "Staff",
     "title": "Staff",
-    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "content": " ",
     "url": "/ml4health-umn/staff/",
     
     "relUrl": "/staff/"
-  },"27": {
+  },"19": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Yogatheesan Varatharajah . yvaratha[at]umn[dot]edu . Office Hours TBA . ",
     "url": "/ml4health-umn/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"28": {
+  },"20": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "More Evil Kevin . me@example.com . I like teaching Computer Science! . Really Evil Kevin . me@example.com . I like teaching Computer Science! . Vishal Kancharla . kanch042[at]umn[dot]edu . Office Hours TBA . ",
+    "content": "Vishal Kancharla . kanch042[at]umn[dot]edu . Office Hours TBA . ",
     "url": "/ml4health-umn/staff/#teaching-assistants",
     
     "relUrl": "/staff/#teaching-assistants"
