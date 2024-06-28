@@ -43,7 +43,7 @@
   },"6": {
     "doc": "About",
     "title": "Table of contents",
-    "content": ". | Course structure | Grading policy | Late days | Academic integrity | Students with disability | Textbooks | . ",
+    "content": ". | Course structure | Grading policy | Late days | Exit passes | Lecture scribing | Academic integrity | Students with disability | Textbooks | . ",
     "url": "/ml4health-umn/about/#table-of-contents",
     
     "relUrl": "/about/#table-of-contents"
@@ -70,131 +70,145 @@
     "relUrl": "/about/#late-days"
   },"10": {
     "doc": "About",
+    "title": "Exit passes",
+    "content": " ",
+    "url": "/ml4health-umn/about/#exit-passes",
+    
+    "relUrl": "/about/#exit-passes"
+  },"11": {
+    "doc": "About",
+    "title": "Lecture scribing",
+    "content": " ",
+    "url": "/ml4health-umn/about/#lecture-scribing",
+    
+    "relUrl": "/about/#lecture-scribing"
+  },"12": {
+    "doc": "About",
     "title": "Academic integrity",
     "content": "As this is an advanced graduate-level course, students are expected to uphold the highest standards of academic integrity. Discussion of ideas is allowed for machine problems and lecture scribing assignments, but the submitted work must be your own. For each problem, please do cite any resources that you have used to solve it. Use of generative AI content in assignments is not allowed. Cheating in this course will result in a failing grade (F), and the University’s policies on academic dishonesty will be strictly enforced. ",
     "url": "/ml4health-umn/about/#academic-integrity",
     
     "relUrl": "/about/#academic-integrity"
-  },"11": {
+  },"13": {
     "doc": "About",
     "title": "Students with disability",
     "content": "Students requiring accommodations are encouraged to discuss their needs with the instructor at the beginning of the semester or as soon as possible. The course staff is committed to ensuring an inclusive and accessible learning environment for all students. ",
     "url": "/ml4health-umn/about/#students-with-disability",
     
     "relUrl": "/about/#students-with-disability"
-  },"12": {
+  },"14": {
     "doc": "About",
     "title": "Textbooks",
     "content": "There are no recommended textbooks for the class. However few topics will be borrowed from . | The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition. Trevor Hastie, Robert Tibshirani, and Jerome Friedman. | Deep learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville. | Deep Learning: Foundations and Concepts. Christopher Bishop and Hugh Bishop. | . ",
     "url": "/ml4health-umn/about/#textbooks",
     
     "relUrl": "/about/#textbooks"
-  },"13": {
+  },"15": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
     "url": "/ml4health-umn/announcements/",
     
     "relUrl": "/announcements/"
-  },"14": {
+  },"16": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": "RR: Required reading AR: Additional reading . ",
     "url": "/ml4health-umn/calendar/",
     
     "relUrl": "/calendar/"
-  },"15": {
+  },"17": {
     "doc": "Calendar",
     "title": "Overview &amp; Basics",
     "content": "Sep 28 Introduction to the course Sep 29 Brief history of AI in healthcare RR1 ",
     "url": "/ml4health-umn/calendar/#overview-basics",
     
     "relUrl": "/calendar/#overview-basics"
-  },"16": {
+  },"18": {
     "doc": "Final project",
     "title": "Final project",
     "content": " ",
     "url": "/ml4health-umn/finalproject/",
     
     "relUrl": "/finalproject/"
-  },"17": {
+  },"19": {
     "doc": "Final project",
     "title": "Table of contents",
     "content": ". | Introduction | Public healthcare datasets | Project proposal | Project mid report | Poster presentation | Final report and code | Select final projects | . ",
     "url": "/ml4health-umn/finalproject/#table-of-contents",
     
     "relUrl": "/finalproject/#table-of-contents"
-  },"18": {
+  },"20": {
     "doc": "Final project",
     "title": "Introduction",
-    "content": "The course requires students to complete a semester-long group project focused on healthcare and AI. The project is a significant component of the course evaluation and consists of several deliverables: Project proposal, Midterm report, Poster presentation, and Final report. Forming groups is mandatory. Students may form their own groups. However, if you need help, the instructor will facilitate a survey to understand your interests and share the results so that it will be easier to find potential group members. For all project deliverables, one submission per group is sufficient . ",
+    "content": "The course requires students to complete a semester-long group project focused on healthcare and AI. The project is a significant component of the course evaluation and consists of several deliverables: Project proposal, Midterm report, Poster presentation, and Final report. Forming groups is mandatory. Students may form their own groups. However, if you need help, the instructor will facilitate a survey to understand your interests and share the results so that it will be easier for you to find potential group members. For all project deliverables, one submission per group is sufficient . ",
     "url": "/ml4health-umn/finalproject/#introduction",
     
     "relUrl": "/finalproject/#introduction"
-  },"19": {
+  },"21": {
     "doc": "Final project",
     "title": "Public healthcare datasets",
     "content": "Here is a list of publicly available health-related datasets of different types (e.g., imaging, signals, omics, EHR, wearables). Some of these might require additional approvals, which is usually the case with healthcare data, so please make sure to look into how soon you can get access before deciding to do a project on these datasets. Also, do not feel obligated to use a dataset listed here, you can always chosse other datasets you find or have access to. ",
     "url": "/ml4health-umn/finalproject/#public-healthcare-datasets",
     
     "relUrl": "/finalproject/#public-healthcare-datasets"
-  },"20": {
+  },"22": {
     "doc": "Final project",
     "title": "Project proposal",
-    "content": "Project proposal consitiutes 10% of the final project grade. By the project proposal deadline, students are expected to have access to their data and also should have an in-depth understanding of their data. They also must have done some literature review related to the project and must have estanblied their goals for the project. Here is a template you can use to write your project proposals. ",
+    "content": "The project proposal accounts for 10% of the final project grade. By the proposal deadline, students should have gained access to their data and demonstrate an in-depth understanding of their dataset. They must also complete a literature review related to the project and establish clear (and achievable) project goals. Here is a template you can use to write your project proposals. ",
     "url": "/ml4health-umn/finalproject/#project-proposal",
     
     "relUrl": "/finalproject/#project-proposal"
-  },"21": {
+  },"23": {
     "doc": "Final project",
     "title": "Project mid report",
-    "content": "Mid report forms 20% of the final project grade. Students must have some preliminary results and must demonstrate in rreport that considerable progress has been made after project proposal. Here is a template for mid report. You do not have to fill in some of the sections unless you want to make some changes to your original proposal. ",
+    "content": "The mid-report constitutes 20% of the final project grade. Students must present preliminary results and show appropiate progress since the project proposal. A template for the mid-report is available here. You do not have to fill in some of the sections unless you want to make some changes to your original proposal. ",
     "url": "/ml4health-umn/finalproject/#project-mid-report",
     
     "relUrl": "/finalproject/#project-mid-report"
-  },"22": {
+  },"24": {
     "doc": "Final project",
     "title": "Poster presentation",
-    "content": "Presentation of final projects is going to be done via a poster presentation which will consititue 30% of the final project grade. | Please use this template to design your posters. The template has information on what you need to include in the poster. You can modify the template as you see fit (as long as you describe all the requested information in some way). Please do not change font sizes or the final print size. | You will use the CSE-IT poster printing service (free of charge) to print the poster. Please submit the print job using this request form at least two business days ahead of the day of presentation. Mention CSENG CS&amp;E Administration (11108) as the department. | The presentations will be evaluated based on a number of aspects, including your understanding of the clinical problem, whether the solution addresses the problem at hand, whether the evaluations are reasonable, whether the results support the expected outcomes, how the group worked together as a whole, and the clarity in poster design and presentation. Here is the detailed rubric. Your posters and presentations will be evaluated by peers from the class and external graders. | . ",
+    "content": "Presentation of final projects is going to be done via a poster presentation which will constitute 30% of the final project grade. | Please use this template to design your posters. The template has information on what you need to include in the poster. You can modify the template as you see fit (as long as you describe all the requested information in some way). Please do not change font sizes or the final print size. | You will use the CSE-IT poster printing service (free of charge) to print the poster. Please submit the print job using this request form at least two business days ahead of the day of presentation. Mention CSENG CS&amp;E Administration (11108) as the department. | The presentations will be evaluated based on a number of aspects, including your understanding of the clinical problem, whether the solution addresses the problem at hand, whether the evaluations are reasonable, whether the results support the expected outcomes, how the group worked together as a whole, and the clarity in poster design and presentation. Here is the detailed rubric. Your posters and presentations will be evaluated by peers from the class and external graders. | . ",
     "url": "/ml4health-umn/finalproject/#poster-presentation",
     
     "relUrl": "/finalproject/#poster-presentation"
-  },"23": {
+  },"25": {
     "doc": "Final project",
     "title": "Final report and code",
-    "content": "Final report constitutes 40% of the final project grade. It is recommended to create a git repo with your code and include a link in the report. Otherwise, you can also create a zip file including your report and code. Please follow this template for your final report. ",
+    "content": "Final report accounts for 40% of the final project grade. It is recommended to create a git repo with your code and include a link in the report. Otherwise, you can also create a zip file including your report and code. Please follow this template for your final report. ",
     "url": "/ml4health-umn/finalproject/#final-report-and-code",
     
     "relUrl": "/finalproject/#final-report-and-code"
-  },"24": {
+  },"26": {
     "doc": "Final project",
     "title": "Select final projects",
     "content": " ",
     "url": "/ml4health-umn/finalproject/#select-final-projects",
     
     "relUrl": "/finalproject/#select-final-projects"
-  },"25": {
+  },"27": {
     "doc": "Machine problems",
     "title": "Machine problems",
     "content": "Students will work on four machine problems, each introducing a different type of medical data. Using Python, you will implement and evaluate machine learning algorithms discussed in class. | MP1 – Classification of RNAseq gene expression data. | MP2 – Unsupervised analysis of brain electrophysiological signals. | MP3 – Deep learning for medical image classification. | MP4 – Using and fine-tuning a large language model to analyze electronic health records. | . ",
     "url": "/ml4health-umn/machineproblems/",
     
     "relUrl": "/machineproblems/"
-  },"26": {
+  },"28": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/ml4health-umn/staff/",
     
     "relUrl": "/staff/"
-  },"27": {
+  },"29": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Yogatheesan Varatharajah . yvaratha[at]umn[dot]edu . Office Hours TBA . ",
     "url": "/ml4health-umn/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"28": {
+  },"30": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Vishal Kancharla . kanch042[at]umn[dot]edu . Office Hours TBA . ",

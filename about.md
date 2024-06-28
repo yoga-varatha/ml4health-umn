@@ -166,6 +166,11 @@ description: >-
 
 Students are allowed a total of four late days for the semester. These late days can be used for machine problems or lecture scribing assignments. You are not required to inform the instructor or the teaching assistant when using your late days, as we will keep track of them. Once all four late days have been used, a penalty of 10% will be applied for each additional late day. Please note that **late days cannot be used for the project related submissions**.
 
+## Exit passes
+
+
+## Lecture scribing
+
 ## Academic integrity
 
 As this is an advanced graduate-level course, students are expected to uphold the highest standards of academic integrity. Discussion of ideas is allowed for machine problems and lecture scribing assignments, but the submitted work must be your own. For each problem, please do cite any resources that you have used to solve it. Use of generative AI content in assignments is not allowed. Cheating in this course will result in a failing grade (F), and the University's policies on academic dishonesty will be strictly enforced.
