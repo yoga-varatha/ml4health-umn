@@ -168,8 +168,12 @@ Students are allowed a total of four late days for the semester. These late days
 
 ## Exit passes
 
+(To be updated)
 
 ## Lecture scribing
+
+(To be updated)
+
 
 ## Academic integrity
 
