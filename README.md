@@ -14,7 +14,7 @@ seo:
 ## Logistics
 
   <ul>
-        <li><strong>Location:</strong> 	Peik Hall 155</li>
+        <li><strong>Location:</strong> 	Ford Hall B10</li>
         <li><strong>Time:</strong> Tuesdays and Thursdays, 11:15 AM – 12:30 PM</li>
   </ul>
 
@@ -23,7 +23,7 @@ seo:
 
 Machine Learning is transforming healthcare. This course will introduce students to a range of healthcare problems that can be tackled using machine learning, different health data modalities, relevant machine learning paradigms, and the unique challenges presented by healthcare applications. Applications we will cover include risk stratification, disease progression modeling, precision medicine, diagnosis, prognosis, subtype discovery, and improving clinical workflows. We will also cover research topics such as explainability, causality, trust, robustness, and fairness.
 
-The prerequisite for this class is CSCI 5521 or an equivalent course. Experience will Python is recommended. Graduate and senior undergraduate students (from CS&E, ECE, BICB, BME, and IHI departments) with introductory machine learning coursework are also welcome. Please contact the instructor, if you are unsure whether you meet the prerequisites.
+The prerequisite for this class is CSCI 5521 or an equivalent course. Experience with Python is recommended. Graduate and senior undergraduate students (from CS&E, ECE, BICB, BME, and IHI departments) with introductory machine learning coursework are welcome. Please contact the instructor, if you are unsure whether you meet the prerequisites.
 
 
 ## Instructor
