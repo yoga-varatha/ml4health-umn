@@ -5,11 +5,11 @@ description: Listing of course modules and topics.
 ---
 
 # Calendar
-%**RR**{: .label .label-red }: Required reading  **AR**{: .label .label-blue }: Additional reading
+[//]: # **RR**{: .label .label-red }: Required reading  **AR**{: .label .label-blue }: Additional reading  
 
-%{% for module in site.modules %}
-%{{ module }}
-%{% endfor %}
+[//]: # {% for module in site.modules %}  
+[//]: # {{ module }}  
+[//]: # {% endfor %}  
 
 | Week | Date | Lecture | Date | Lecture |  
 | -----|------|---------|------|-------- |  
