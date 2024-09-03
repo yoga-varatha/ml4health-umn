@@ -22,14 +22,14 @@ Forming groups is mandatory. Students may form their own groups. However, if you
 
 ## Public healthcare datasets
 
-[Here](https://docs.google.com/document/d/1DSlLnt318xdyVZ4c2RTAItvBvmpQwkCuENh0SkGzD8I/edit) is a list of publicly available health-related datasets of different types (e.g., imaging, signals, omics, EHR, wearables).  **Some of these might require additional approvals**, which is usually the case with healthcare data, so please make sure to look into how soon you can get access before deciding to do a project on these datasets. Also, do not feel obligated to use a dataset listed here, you can always chosse other datasets you find or have access to.
+[Here](https://docs.google.com/document/d/1DSlLnt318xdyVZ4c2RTAItvBvmpQwkCuENh0SkGzD8I/edit) is a list of publicly available health-related datasets of different types (e.g., imaging, signals, omics, EHR, wearables).  **Some of these might require additional approvals**, which is usually the case with healthcare data, so please make sure to look into how soon you can get access before deciding to do a project on these datasets. Also, do not feel obligated to use a dataset listed here, you can always choose other datasets you find or have access to.
 
 
 ## Project proposal 
 The project proposal accounts for 10% of the final project grade. By the proposal deadline, students should have gained access to their data and demonstrate an in-depth understanding of their dataset. They must also complete a literature review related to the project and establish clear (and achievable) project goals. [Here](https://z.umn.edu/ml4h_project_proposal_template) is a template you can use to write your project proposals.
 
 ## Project mid report 
-The mid-report constitutes 20% of the final project grade. Students must present preliminary results and show appropiate progress since the project proposal. A template for the mid-report is available [here](https://docs.google.com/document/d/1YFDiMMquKg6-svfs-tDUWPIeW7SNw2Sg0tt9KMfeetM/edit). You do not have to fill in some of the sections unless you want to make some changes to your original proposal.
+The mid-report constitutes 20% of the final project grade. Students must present preliminary results and show appropriate progress since the project proposal. A template for the mid-report is available [here](https://docs.google.com/document/d/1YFDiMMquKg6-svfs-tDUWPIeW7SNw2Sg0tt9KMfeetM/edit). You do not have to fill in some of the sections unless you want to make some changes to your original proposal.
 
 ## Poster presentation
 Presentation of final projects is going to be done via a poster presentation which will constitute 30% of the final project grade. 

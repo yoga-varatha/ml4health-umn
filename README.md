@@ -16,6 +16,10 @@ seo:
   <ul>
         <li><strong>Location:</strong> 	Ford Hall B10</li>
         <li><strong>Time:</strong> Tuesdays and Thursdays, 11:15 AM – 12:30 PM</li>
+        <li><strong>Links:</strong> 
+          <a href="https://canvas.umn.edu/courses/460731" target="_blank">Canvas</a>, 
+          <a href="https://piazza.com/class/m0bt6eyctbt56" target="_blank">Piazza</a>
+        </li>
   </ul>
 
 
