@@ -22,8 +22,8 @@ description: Listing of course modules and topics.
 | 7 | 10/15 | CNNs for medical imaging and signals | 10/17 | (**Project proposals & Mini project release**) |  
 | 8 | 10/22 | Explanations and attributions | 10/24| Machine learning for medical imaging: (Guest lecture - Google Health) |  
 | 9 | 10/29 | Graphs and graph neural networks in healthcare | 10/31 | Sequence modeling in healthcare - HMMs to RNNs – health applications |  
-| 10 | 11/5 | Guest Lecture: ML for Mental Health  | 11/7 | Learning health systems (Guest Lecture - M Health Fairview) (**Project mid-term reports**)  |  
-| 11 | 11/12 | Unsupervised deep learning for healthcare, self-supervised learning | 11/14 | Generative models in healthcare |  
+| 10 | 11/5 | Guest Lecture: ML for Mental Health  | 11/7 | Learning health systems (Guest Lecture - M Health Fairview)  |  
+| 11 | 11/12 | Unsupervised deep learning for healthcare, self-supervised learning | 11/14 | Generative models in healthcare (**Project mid-term reports**) |  
 | 12 | 11/19 | AI evaluation and deployment (Guest Lecture - Institute for Health Informatics) | 11/21 | Clinical foundation models (**Mini project due**) |  
 | 13 | 11/26| Lab on large language models | 11/28 | **Thanksgiving** |  
 | 14 | 12/3 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic) | 12/5 | Trustworthy Health AI - Robustness and Reliability |  
