@@ -15,7 +15,7 @@ description: Listing of course modules and topics.
 | -----|------|---------|------|-------- |  
 | 1 | 9/3 | Intro to class (**Lab 0**) | 9/5 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. |  
 | 2 | 9/10 | Intro to clinical care and understanding clinical data | 9/12 | Classification methods in healthcare: diagnosis, prognosis, segmentation (**MP1 - omics**)  |  
-| 3 | 9/17 | SVM, random forests, xgboost: interpretation of different model choices | 9/19 | Unsupervised methods for healthcare: subtype discovery, pattern discovery |  
+| 3 | 9/17 | SVM, random forests, XGBoost: interpretation of different model choices | 9/19 | Unsupervised methods for healthcare: subtype discovery, pattern discovery |  
 | 4 | 9/24 | PCA, ICA, tensor decomposition | 9/26 | Clustering methods (**MP2 – physiological signals**) |  
 | 5 | 10/1 | Causal Inference in Healthcare (**Deadline to form project groups**) | 10/3 | Deep learning for healthcare: Intro |  
 | 6 | 10/8 | Digital health (Guest Lecture - Prof. Srivastava) | 10/10 | ConvNets & PyTorch tutorial (**MP3 - medical imaging**) |  
