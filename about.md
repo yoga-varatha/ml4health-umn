@@ -162,9 +162,9 @@ description: >-
   </tr>
 </table>
 
-## Late days 
+## Late submissions 
 
-Students are allowed a total of four late days for the semester. These late days can be used for machine problems or lecture scribing assignments. You are not required to inform the instructor or the teaching assistant when using your late days, as we will keep track of them. Once all four late days have been used, a penalty of 10% will be applied for each additional late day. Please note that **late days cannot be used for the project related submissions**.
+No late submissions are allowed. Extenuating circumstances require prior approval.
 
 ## Exit passes
 
