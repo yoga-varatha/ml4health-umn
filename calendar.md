@@ -20,8 +20,8 @@ description: Listing of course modules and topics.
 | 5 | 10/1 | Causal Inference in Healthcare (**Deadline to form project groups**) | 10/3 | Deep learning for healthcare: Intro |  
 | 6 | 10/8 | Digital health (Guest Lecture - Prof. Srivastava) | 10/10 | ConvNets & PyTorch tutorial (**MP3 - medical imaging**) |  
 | 7 | 10/15 | CNNs for medical imaging and signals | 10/17 | (**Project proposals & Mini project release**) |  
-| 8 | 10/22 | Explanations and attributions | 10/24| Machine learning for medical imaging |  
-| 9 | 10/29 | Learning health systems (Guest Lecture - M Health Fairview) | 10/31 | Sequence modeling in healthcare - HMMs to RNNs – health applications |  
+| 8 | 10/22 | Explanations and attributions | 10/24| Graphs and Networks in Healthcare |  
+| 9 | 10/29 | Graph ML & Healthcare Applications | 10/31 | Sequence modeling in healthcare - HMMs to RNNs – health applications |  
 | 10 | 11/5 | TBD  | 11/7 | AI in Medical Device Industry (Guest Lecture - Medtronic) (**Project mid-term reports**) |  
 | 11 | 11/12 | Unsupervised deep learning for healthcare, self-supervised learning | 11/14 | Clinical foundation models |  
 | 12 | 11/19 | AI evaluation and deployment | 11/21 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic)(**Mini project due**) |  
