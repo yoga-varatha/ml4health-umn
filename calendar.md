@@ -24,7 +24,7 @@ description: Listing of course modules and topics.
 | 9 | 10/29 | Graph ML & Healthcare Applications | 10/31 | Sequence modeling in healthcare - Part I |  
 | 10 | 11/5 | Sequence modeling in healthcare - Part II  | 11/7 | AI in Medical Device Industry (Guest Lecture - Medtronic) (**Project mid-term reports**) |  
 | 11 | 11/12 | Unsupervised deep learning for healthcare, self-supervised learning | 11/14 | Clinical foundation models |  
-| 12 | 11/19 | AI evaluation and deployment | 11/21 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic)(**Mini project due**) |  
-| 13 | 11/26| Generative AI in Healtcare (Guest Lecture) | 11/28 | **Thanksgiving** |  
-| 14 | 12/3 | TBD  | 12/5 | Trustworthy Health AI - Robustness and Reliability |  
+| 12 | 11/19 | Medical AI evaluation and deployment | 11/21 | Ethical AI for healthcare (Guest Lecture - Mayo Clinic)(**Mini project due**) |  
+| 13 | 11/26| Medical AI model robustness | 11/28 | **Thanksgiving** |  
+| 14 | 12/3 | Uncertainty Quantification | 12/5 | Fairness in Medical AI |  
 | 15 | 12/10 | **Project presentations** |  EOS | **Reports due** |  
