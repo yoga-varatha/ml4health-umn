@@ -148,7 +148,7 @@ description: >-
   <tr>
     <td>Machine Problems</td>
     <td>60% ( 3 * 20%)</td>
-    <td>50% ( 3 * 15%)</td>
+    <td>45% ( 3 * 15%)</td>
   </tr>
   <tr>
     <td>Final Project</td>
