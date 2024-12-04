@@ -147,8 +147,8 @@ description: >-
   </tr>
   <tr>
     <td>Machine Problems</td>
-    <td>60% ( 4 * 15%)</td>
-    <td>50% ( 4 * 12.5%)</td>
+    <td>60% ( 3 * 20%)</td>
+    <td>50% ( 3 * 15%)</td>
   </tr>
   <tr>
     <td>Final Project</td>
@@ -156,9 +156,9 @@ description: >-
     <td>40%</td>
   </tr>
   <tr>
-    <td>Paper Presentation / Lecture scribing</td>
+    <td>Mini Project</td>
     <td>-</td>
-    <td>10%</td>
+    <td>15%</td>
   </tr>
 </table>
 
