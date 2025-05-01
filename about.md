@@ -142,23 +142,15 @@ description: >-
 <table>
   <tr>
     <th>Category</th>
-    <th>CSCI 5980 section</th>
-    <th>CSCI 8980 section</th>
+    <th>Grade</th>
   </tr>
   <tr>
     <td>Machine Problems</td>
-    <td>60% ( 3 * 20%)</td>
-    <td>45% ( 3 * 15%)</td>
+    <td>60% ( 4 * 15%)</td>
   </tr>
   <tr>
     <td>Final Project</td>
     <td>40%</td>
-    <td>40%</td>
-  </tr>
-  <tr>
-    <td>Mini Project</td>
-    <td>-</td>
-    <td>15%</td>
   </tr>
 </table>
 
