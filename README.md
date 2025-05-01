@@ -15,7 +15,7 @@ seo:
 
   <ul>
         <li><strong>Location:</strong> 	TBD</li>
-        <li><strong>Time:</strong> Tuesdays and Thursdays, 9:45 AM – 11:00 AM</li>
+        <li><strong>Time:</strong> MW 9:45 AM – 11:00 AM</li>
         <li><strong>Links:</strong> 
           <a href="https://canvas.umn.edu/courses/" target="_blank">Canvas</a>, 
           <a href="https://piazza.com/class/" target="_blank">Piazza</a>
