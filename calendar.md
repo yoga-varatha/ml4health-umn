@@ -13,7 +13,7 @@ description: Listing of course modules and topics.
 
 | Week | Date | Lecture | Date | Lecture |  
 | -----|------|---------|------|-------- |  
-| 1 | 9/1 | **Labor Day** | 9/3 | Intro to class (**Lab 0**) | 9/5 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. |  
+| 1 | 9/1 | **Labor Day** | 9/3 | Intro to class (**Lab 0**) |  
 | 2 | 9/8 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. | 9/10 | Intro to clinical care and understanding clinical data  |  
 | 3 | 9/15 | Classification methods in healthcare: diagnosis, prognosis, segmentation (**MP1 - omics**) | 9/17 | SVM, random forests, XGBoost: interpretation of different model choices |  
 | 4 | 9/22 | Unsupervised methods for healthcare: subtype discovery, pattern discovery | 9/24 | PCA, ICA, tensor decomposition |  
