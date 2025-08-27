@@ -14,7 +14,7 @@ seo:
 ## Logistics
 
   <ul>
-        <li><strong>Location:</strong> 	TBD</li>
+        <li><strong>Location:</strong> Appleby Hall 319 </li>
         <li><strong>Time:</strong> MW 9:45 AM – 11:00 AM</li>
         <li><strong>Links:</strong> 
           <a href="https://canvas.umn.edu/courses/" target="_blank">Canvas</a>, 
