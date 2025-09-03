@@ -28,4 +28,4 @@ description: Listing of course modules and topics.
 | 13 | 11/24| Ethical AI for healthcare (Guest Lecture - TBA)| 11/26 | Medical AI model robustness |  
 | 14 | 12/1 | Uncertainty Quantification | 12/3 | Fairness in Medical AI |  
 | 15 | 12/8 | TBD | 12/10 | **Project presentations** |  
-| 16 | 12/17 | **Reports due** | - | - |  
+| 16 | - | - | 12/17 | **Reports due** |
