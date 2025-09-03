@@ -146,7 +146,11 @@ description: >-
   </tr>
   <tr>
     <td>Machine Problems</td>
-    <td>60% ( 4 * 15%)</td>
+    <td>50% ( 4 * 12.5%)</td>
+  </tr>
+  <tr>
+    <td>Quizzes</td>
+    <td>10% ( 2 * 5%)</td>
   </tr>
   <tr>
     <td>Final Project</td>
