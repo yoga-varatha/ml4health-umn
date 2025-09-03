@@ -27,4 +27,5 @@ description: Listing of course modules and topics.
 | 12 | 11/17 | Clinical foundation models | 11/19 | Medical AI evaluation and deployment |  
 | 13 | 11/24| Ethical AI for healthcare (Guest Lecture - TBA)| 11/26 | Medical AI model robustness |  
 | 14 | 12/1 | Uncertainty Quantification | 12/3 | Fairness in Medical AI |  
-| 15 | 12/8 | **Project presentations** | 12/10 | **Reports due** |  
+| 15 | 12/8 | TBD | 12/10 | **Project presentations** |  
+| 16 | 12/17 | **Reports due** | - | - |  
