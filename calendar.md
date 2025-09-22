@@ -16,7 +16,7 @@ description: Listing of course modules and topics.
 | 1 | 9/1 | **Labor Day** | 9/3 | Intro to class (**Lab 0**) |  
 | 2 | 9/8 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. (**MP1 - omics**) | 9/10 | Intro to clinical care and understanding clinical data  |  
 | 3 | 9/15 | Classification methods in healthcare: diagnosis, prognosis, segmentation | 9/17 | Unsupervised methods for healthcare: subtype discovery, pattern discovery |  
-| 4 | 9/22 |  Dimension reduction and visualization (**MP2 – physiological signals**) | 9/24 | TBD |  
+| 4 | 9/22 |  Dimension reduction and visualization (**MP2 – physiological signals**) | 9/24 | Guest Lecture -- AI in Neurosurgery |  
 | 5 | 9/29 | TBD | 10/1 | Causal Inference in Healthcare |  
 | 6 | 10/6 | ConvNets & PyTorch tutorial (**MP3 - medical imaging**) | 10/8 | Deep learning for healthcare: Intro (**Deadline to form project groups**) |  
 | 7 | 10/13 | CNNs for medical imaging and signals | 10/15 | Digital health (Guest Lecture - TBA) |  
