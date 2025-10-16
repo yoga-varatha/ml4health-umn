@@ -16,10 +16,10 @@ description: Listing of course modules and topics.
 | 1 | 9/1 | **Labor Day** | 9/3 | Intro to class (**Lab 0**) |  
 | 2 | 9/8 | What’s different in health? modalities, imbalance, rare events, stakeholders, etc. (**MP1 - omics**) | 9/10 | Intro to clinical care and understanding clinical data  |  
 | 3 | 9/15 | Classification methods in healthcare: diagnosis, prognosis, segmentation | 9/17 | Unsupervised methods for healthcare: subtype discovery, pattern discovery |  
-| 4 | 9/22 |  Dimension reduction and visualization (**MP2 – physiological signals**) | 9/24 | Guest Lecture -- AI in Neurosurgery |  
+| 4 | 9/22 | Dimension reduction and visualization (**MP2 – physiological signals**) | 9/24 | Guest Lecture -- AI in Neurosurgery |  
 | 5 | 9/29 | Risk Stratification | 10/1 | Causal Inference in Healthcare |  
-| 6 | 10/6 | ConvNets & PyTorch tutorial (**MP3 - medical imaging**) | 10/8 | CNNs for medical imaging and signals (**Deadline to form project groups**) |  
-| 7 | 10/13 | Explanations and attributions | 10/15 | TBD |  
+| 6 | 10/6 | ConvNets & PyTorch tutorial (**MP3 - medical imaging**)(**Lab 1**) | 10/8 | CNNs for medical imaging and signals (**Deadline to form project groups**) |  
+| 7 | 10/13 | Explanations and attributions | 10/15 | Medical Image Segmentation Tutorial (**Lab 2**) |  
 | 8 | 10/20 |  TBD | 10/22| (**Quiz1**) (**Project proposals**) |  
 | 9 | 10/27 | Graphs and Networks in Healthcare (**MP4 - medical text**) | 10/29 | Graph ML & Healthcare Applications |  
 | 10 | 11/3 | Sequence modeling in healthcare - Part I | 11/5 | Sequence modeling in healthcare - Part II |  
