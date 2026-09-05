@@ -9,13 +9,13 @@ seo:
 ---
 
 # CSCI 5526: Machine Learning for Healthcare 
-<span style="font-weight: lighter; font-size: 20px">University of Minnesota, Twin Cities, Fall 2025</span>.
+<span style="font-weight: lighter; font-size: 20px">University of Minnesota, Twin Cities, Fall 2026</span>.
 
 ## Logistics
 
   <ul>
-        <li><strong>Location:</strong> Appleby Hall 319 </li>
-        <li><strong>Time:</strong> MW 9:45 AM – 11:00 AM</li>
+        <li><strong>Location:</strong> Lind Hall 302 </li>
+        <li><strong>Time:</strong> MW 4:00 PM – 5:15 PM</li>
         <li><strong>Links:</strong> 
           <a href="https://canvas.umn.edu/courses/" target="_blank">Canvas</a>, 
           <a href="https://piazza.com/class/" target="_blank">Piazza</a>

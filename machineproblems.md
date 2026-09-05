@@ -12,4 +12,5 @@ Students will work on three machine problems, each introducing a different type 
   <li>MP1 – Classification of RNAseq gene expression data.</li>
   <li>MP2 – Unsupervised analysis of brain electrophysiological signals.</li>
   <li>MP3 – Deep learning for medical image classification.</li>
+  <li>MP4 – Word embeddings for analyzing medical reports.</li>
 </ul>
