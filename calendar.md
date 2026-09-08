@@ -24,7 +24,7 @@ description: Listing of course modules and topics.
 | 9 | 11/2 | Graph ML & Healthcare Applications (**MP4 - medical text**) | 11/4 | Sequence modeling in healthcare - Part I |  
 | 10 | 11/9 | Sequence modeling in healthcare - Part II | 11/11 | Unsupervised deep learning for healthcare, self-supervised learning |  
 | 11 | 11/16 | Clinical NLP and representation learning | 11/18 |  Guest Lecture - TBA (**Project mid-reports**) |  
-| 12 | 11/23 | Clinical foundation models | 11/25 | Medical AI evaluation and deployment |  
+| 12 | 11/23 | Clinical foundation models | 11/25 | Medical AI evaluation and deployment (Guest Lecture) |  
 | 13 | 11/30| Guest Lecture - TBA| 12/02 | Medical AI model robustness |  
 | 14 | 12/7 | Uncertainty Quantification | 12/9 | Fairness in Medical AI |  
 | 15 | 12/14 | (**Quiz2**) | 12/16 | **Project presentations** |  
